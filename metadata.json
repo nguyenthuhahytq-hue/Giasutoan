@@ -1,0 +1,7 @@
+{
+  "name": "Gia sư Toán Tiểu học AI",
+  "description": "Ứng dụng gia sư toán thông minh dành cho học sinh tiểu học Việt Nam (Lớp 1-5), bám sát chương trình GDPT 2018 và bộ sách Kết nối tri thức.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
